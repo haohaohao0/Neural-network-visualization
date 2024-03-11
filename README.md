@@ -1,7 +1,7 @@
 # Neural-Network-Visualization（VGG-16 image classification based on MNIST dataset）
 Neural network visualization (loss-acc graph, mean gradient graph, feature map, convolution kernel, parameters)
 ## 1. VGG-16 architecture
-Here we use the `PlotNeuralNet` drawing tool to draw our net's structure:blush:.
+Here we use the `PlotNeuralNet` drawing tool to draw our net's structure.
 https://github.com/HarisIqbal88/PlotNeuralNet
 <div align=center>
 <img src="https://github.com/haohaohao0/Neural-network-visualization/assets/152512651/ceaabd86-cb13-4ff8-9cdf-d97435c66062" width="600" height="300">
